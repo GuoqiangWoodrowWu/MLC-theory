@@ -1,4 +1,5 @@
-# Source code description
+# Multi-label classification: do Hamming loss and subset accuracy really conflict with each other?
+This repository is the official implementation of "Multi-label classification: do Hamming loss and subset accuracy really conflict with each other?" accepted in NeurIPS 2020.
 ## Programming Language
 The source code is written by Matlab
 ## File description
